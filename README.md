@@ -1,5 +1,7 @@
 # 👉🏻 KIRI - Berkah Team - HACKFEST 2023
 
+<img width="1100" alt="Banner cordova" src="https://storage.googleapis.com/image-kiri/test-files/mobile/cover%20kiri.png"> 
+
 # ✨ Description
 ## Idea
 *“Kiri" means "left" in Bahasa Indonesia, a mobile application that uses Flutter and GoLang programming language from Google that focused on being a platform for bus monitoring with Internet of Things (IoT). Users can log in for Real-time GPS tracking utilizing Arduino and Google Cloud Platform, providing details like the vehicle's license plate, route, passenger count, and estimated arrival time. KiriPay, our digital wallet, allows easy top-ups and fare payments with QR codes while facilitating tap-in and tap-out. Our gamification system, KiriPoints, lets users convert points into travel vouchers, promoting sustainable mobility. Ensuring safety, we offer an Individual GPS Tracker and Emergency Button widget for quick access to emergency services.*
